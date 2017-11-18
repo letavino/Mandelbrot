@@ -1,0 +1,5 @@
+﻿  Mandelbrot.cpp
+c:\users\admin\source\repos\mandelbrot\mandelbrot\mandelbrot.cpp(358): warning C4244: "/=": Konvertierung von "double" in "GLint", möglicher Datenverlust
+c:\users\admin\source\repos\mandelbrot\mandelbrot\mandelbrot.cpp(361): warning C4244: "*=": Konvertierung von "double" in "GLint", möglicher Datenverlust
+  Mandelbrot.vcxproj -> C:\Users\Admin\source\repos\Mandelbrot\x64\Debug\Mandelbrot.exe
+  Mandelbrot.vcxproj -> C:\Users\Admin\source\repos\Mandelbrot\x64\Debug\Mandelbrot.pdb (Partial PDB)
